@@ -7,4 +7,4 @@ The training dataset is based on the Lindsay Ellis Cancellation, with tweets man
 
 [How I Made The Dataset](https://www.tensorflow.org/tutorials/structured_data/feature_columns) 
 
-[Source for the model] (https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
+[Source for the model](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
